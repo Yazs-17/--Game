@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\桌面\#-Game\main.cpp(69,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(69,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(72,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(72,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(72,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(72,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(73,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(73,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(73,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\#-Game\main.cpp(73,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  #-Game.vcxproj -> E:\桌面\#-Game\x64\Debug\#-Game.exe
